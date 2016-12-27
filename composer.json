@@ -1,0 +1,19 @@
+{
+    "name" : "babibubebon/madb-anime-scraper",
+    "description": "A scraper for MediaArtsDatabase",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Babibubebon",
+            "homepage": "https://babibubebo.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "fabpot/goutte": "^3.2",
+        "nategood/commando": "^0.2.9"
+    },
+    "autoload": {
+        "psr-4": {"MADB\\": "lib/"}
+    }
+}

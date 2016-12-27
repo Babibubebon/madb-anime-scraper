@@ -1,0 +1,1 @@
+# madb-anime-scraper
